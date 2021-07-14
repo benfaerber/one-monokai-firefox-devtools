@@ -17,6 +17,6 @@ Based on the theme [One Monokai for VSCode](https://marketplace.visualstudio.com
  
 3. Create a folder called "chrome"
 
-4. Add the 2 files from this repo to the "chrome" folder
+4. Add the 2 CSS files from this repo to the "chrome" folder
 
 5. Restart Firefox and open your Devtools!
