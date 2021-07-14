@@ -1,0 +1,44 @@
+/*
+ * Variables for devtools are available at: https://developer.mozilla.org/en-US/docs/Tools/DevToolsColors
+ */
+
+:root.theme-dark {
+  /*
+     * Chrome colors
+     */
+  --theme-tab-toolbar-background: #252c33 !important;
+  --theme-toolbar-background: #343c45 !important;
+  --theme-selection-background: #5c6679 !important;
+  --theme-selection-color: #f5f7fa !important;
+  --theme-splitter-color: #000000 !important;
+  --theme-comment: #5c6773 !important;
+
+  /*
+     * Content Colors
+     */
+  --theme-body-background: #2d323b !important;
+  --theme-sidebar-background: #23282e !important;
+  --theme-contrast-background: #b28025 !important;
+
+  /*
+     * Text Colors
+     */
+  --theme-body-color: #bcd3e7 !important;
+  --theme-body-color-alt: #d7dde6 !important;
+  --theme-content-color1: #a1c983 !important;
+  --theme-content-color2: #b6cbdf !important;
+  --theme-content-color3: #bccfe0 !important;
+
+  /*
+     * Highlight Colors
+     */
+  --theme-highlight-blue: #e47780 !important;
+  --theme-highlight-purple: #e8c786 !important;
+  --theme-highlight-pink: #df80ff !important;
+  --theme-highlight-red: #a1c983 !important;
+  --theme-highlight-orange: #d96629 !important;
+  --theme-highlight-lightorange: #d99b28 !important;
+  --theme-highlight-green: #b3bed3 !important;
+  --theme-highlight-bluegrey: #e8c786 !important;
+  --theme-highlight-yellow: #ffffb4 !important;
+}
