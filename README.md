@@ -15,8 +15,8 @@ Based on the theme [One Monokai for VSCode](https://marketplace.visualstudio.com
 
 2. Go to [about:profiles](about:profiles) and open the root directory of your profile in Finder (Find whichever profile is in use)
  
-3. Create a folder called "`chrome`"
+3. Create a folder called `chrome`
 
-4. Add the 2 CSS files from this repo to the "`chrome`" folder
+4. Add the 2 CSS files from this repo to the `chrome` folder
 
 5. Restart Firefox and open your Devtools!
