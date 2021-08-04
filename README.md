@@ -9,11 +9,11 @@ Based on the theme [One Monokai for VSCode](https://marketplace.visualstudio.com
 
 ### How to install:
 
-1. Go to [about:config](about:config) in Firefox, enable `userChrome.css` styles using this command:
+1. Go to `about:config` in Firefox, enable `userChrome.css` styles using this command:
 
     `toolkit.legacyUserProfileCustomizations.stylesheets = true`
 
-2. Go to [about:profiles](about:profiles) and open the root directory of your profile in Finder (Find whichever profile is in use)
+2. Go to `about:profiles` and open the root directory of your profile in Finder (Find whichever profile is in use)
  
 3. Create a folder called `chrome`
 
