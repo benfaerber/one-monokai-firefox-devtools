@@ -9,7 +9,7 @@ Based on the theme [One Monokai for VSCode](https://marketplace.visualstudio.com
 
 ## How to install:
 
-1. Enter `about:config` in the Firefox address bar and click allow.
+1. Enter `about:config` in the Firefox address bar and click `Accept the risk and continue` after reading the warning.
 
 2. To enable `userChrome.css` custom stylesheets enter this command in the search bar:
 `toolkit.legacyUserProfileCustomizations.stylesheets`, then double click the property to toggle it to true. You can now close this window.
