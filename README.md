@@ -7,7 +7,7 @@ I pair this theme with [Nord Polar Night from Christos Bouronikos](https://githu
 
 Based on the theme [One Monokai for VSCode](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
-### How to install:
+## How to install:
 
 1. Enter `about:config` in the Firefox address bar and click allow.
 
