@@ -7,6 +7,8 @@ I pair this theme with [Nord Polar Night from Christos Bouronikos](https://githu
 
 Based on the theme [One Monokai for VSCode](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
+Design and generate your own devtools theme using my [free tool](https://benfaerber.github.io/firefox-devtool-themes/)!
+
 ## How to install:
 
 1. Enter `about:config` in the Firefox address bar and click `Accept the risk and continue` after reading the warning.
